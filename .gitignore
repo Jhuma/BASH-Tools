@@ -1,0 +1,13 @@
+# Xcode Noise
+build/*
+
+*.xcodeproj/fusion94.pbxuser
+*.xcodeproj/fusion94.perspectivev3
+*.mode1v3
+
+# Old School
+.svn
+
+# OS X Noise
+.DS_Store
+profile

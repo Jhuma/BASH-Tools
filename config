@@ -1,0 +1,9 @@
+Host github.com
+	User git
+	Hostname github.com
+	PreferredAuthentications publickey
+	IdentityFile /Users/fusion94/.ssh/github_ds_mbp
+
+Host cloudspace.unfuddle.com
+	User git
+	IdentityFile /Users/fusion94/.ssh/unfuddle_cloudspace_mbp
